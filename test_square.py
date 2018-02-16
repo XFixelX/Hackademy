@@ -3,9 +3,8 @@ import production
 
 class TestProduction(unittest.TestCase):
     def test_square(self):
-        input = [2]
-        output = [4]
-        self.assertEqual(output, production.square(input))
+        output = [0,1,4,9,16,25,36,49,64,81,100]
+        self.assertEqual(output, production.square())
 
 if __name__ =="__main__":
     unittest.main()
