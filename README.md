@@ -1,2 +1,2 @@
 # Hackademy
-This is an unneccessary repository which noone needs.
+This is not an unneccessary repository which noone needs.
